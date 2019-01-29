@@ -1,6 +1,8 @@
 # elevatorSimulator
 
-To run the program: first compile Elevator.py and Person.py, then runAI.py, then finally run main.py.
+To run the program: first compile Elevator.py and Person.py, then runAI.py, then finally run main.py.  
+
+No API's were used, the algorithm used by the elevators is completely hardcoded.
 
 In the final window, the rectangles are the elevators and the circles are people.  Each horizontal line represents one floor. 
 
